@@ -1,0 +1,55 @@
+# CRITICAL: Never commit API keys or credentials
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Personal data - NEVER commit
+data/resumes/*
+data/outputs/*
+data/samples/Ahmed_*
+data/samples/*_personal*
+
+# Keep only example files
+!data/samples/sample_*.txt
+!data/samples/sample_*.docx
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log

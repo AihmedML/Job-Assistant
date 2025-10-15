@@ -1,0 +1,53 @@
+JOHN DOE
+john.doe@email.com | (555) 123-4567 | LinkedIn: linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Python Developer with 6+ years of expertise in building scalable web applications and RESTful APIs. Proficient in Django, Flask, and cloud technologies. Strong problem-solver with a passion for clean code and best practices.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, SQL, HTML, CSS
+Frameworks: Django, Flask, FastAPI, React
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Cloud & DevOps: AWS (EC2, S3, Lambda), Docker, Kubernetes, CI/CD
+Tools: Git, GitHub, Jira, Jenkins, Postman
+Methodologies: Agile, Scrum, TDD
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Solutions
+June 2020 - Present
+• Led development of microservices architecture serving 2M+ users
+• Designed and implemented RESTful APIs using Django REST Framework
+• Improved application performance by 40% through database optimization
+• Mentored 3 junior developers and conducted code reviews
+• Collaborated with cross-functional teams in Agile environment
+• Deployed applications on AWS using Docker and Kubernetes
+
+Python Developer | StartupXYZ
+January 2018 - May 2020
+• Developed backend services using Flask and PostgreSQL
+• Built and maintained REST APIs for mobile and web applications
+• Implemented automated testing increasing code coverage to 85%
+• Participated in daily standups and sprint planning
+• Worked with React developers to integrate frontend with backend
+
+Junior Developer | WebDev Inc.
+March 2016 - December 2017
+• Developed web applications using Python and Django
+• Created database schemas and optimized SQL queries
+• Implemented user authentication and authorization systems
+• Collaborated with team members using Git version control
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University, 2016
+GPA: 3.7/4.0
+
+PROJECTS
+• Open Source Contributor: Contributed to Django and Flask projects on GitHub
+• Personal Project: Built a task management API with FastAPI and PostgreSQL
+• Hackathon Winner: Created a machine learning-powered recommendation system
+
+CERTIFICATIONS
+• AWS Certified Developer - Associate
+• Python Professional Certification

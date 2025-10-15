@@ -1,0 +1,45 @@
+Senior Python Developer
+
+Tech Innovations Inc. is seeking a talented Senior Python Developer to join our growing team.
+
+About the Role:
+We're looking for an experienced Python developer to build scalable backend systems and APIs. You'll work with our engineering team to design and implement solutions for our cloud-based platform.
+
+Required Skills:
+- 5+ years of professional Python development experience
+- Strong experience with Django or Flask frameworks
+- Experience with REST API design and implementation
+- Proficiency with SQL databases (PostgreSQL, MySQL)
+- Experience with AWS or other cloud platforms
+- Knowledge of Docker and Kubernetes
+- Git version control
+- Strong problem-solving skills
+- Excellent communication and teamwork abilities
+
+Nice to Have:
+- Experience with React or Vue.js
+- Knowledge of microservices architecture
+- Experience with CI/CD pipelines
+- Familiarity with Agile/Scrum methodologies
+- Open source contributions
+
+Responsibilities:
+- Design and develop scalable backend services
+- Build and maintain RESTful APIs
+- Collaborate with frontend developers and product managers
+- Write clean, maintainable, and well-documented code
+- Participate in code reviews
+- Optimize application performance
+- Mentor junior developers
+
+Requirements:
+- Bachelor's degree in Computer Science or related field
+- 5+ years of professional experience
+- Portfolio of completed projects
+
+We Offer:
+- Competitive salary ($120K-$160K)
+- Remote work flexibility
+- Health benefits
+- 401k matching
+- Professional development budget
