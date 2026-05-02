@@ -1,52 +1,87 @@
 # Job Application Assistant
 
-An AI-powered tool to optimize your job applications and increase interview chances.
+An AI-powered assistant for improving job applications by analyzing resumes, comparing them against job descriptions, and generating targeted application materials.
 
-## Features
+## What it does
 
-- **Resume Parser**: Extract skills and experience from PDF/DOCX resumes
-- **Job Analyzer**: Parse job postings to identify key requirements
-- **ATS Optimizer**: Match your resume against job requirements (beat Applicant Tracking Systems)
-- **Cover Letter Generator**: AI-generated personalized cover letters
-- **Interview Prep**: Generate likely interview questions based on the job description
+- Parses resumes from PDF/DOCX files
+- Analyzes job descriptions and extracts key requirements
+- Compares resume content against job requirements
+- Suggests ATS-focused improvements
+- Generates personalized cover letters
+- Creates interview preparation questions
+
+## Why I built it
+
+This project helped me practice building practical AI tools around real workflows: document parsing, LLM prompting, structured outputs, and automation for job seekers.
 
 ## Setup
 
-1. Install dependencies:
+Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Create a `.env` file with your API key:
+Create a `.env` file:
+
 ```bash
-# Use either Anthropic or OpenAI
 LLM_PROVIDER=anthropic
 ANTHROPIC_API_KEY=your_api_key_here
 
-# OR
+# Or use OpenAI
 LLM_PROVIDER=openai
 OPENAI_API_KEY=your_api_key_here
 ```
 
-3. Run the assistant:
+Run the assistant:
+
 ```bash
 python main.py
 ```
 
 ## Usage
 
+Analyze a job and optimize a resume:
+
 ```bash
-# Analyze a job and optimize your resume
 python main.py optimize --resume my_resume.pdf --job job_posting.txt
+```
 
-# Generate a cover letter
+Generate a cover letter:
+
+```bash
 python main.py cover-letter --resume my_resume.pdf --job job_posting.txt
+```
 
-# Get interview prep questions
+Generate interview prep questions:
+
+```bash
 python main.py interview-prep --job job_posting.txt
 ```
 
+## Tech focus
 
+- Python CLI development
+- Resume/document parsing
+- LLM-powered text generation
+- Prompt engineering
+- Practical AI automation
+
+## Planned improvements
+
+- Add a simple web UI
+- Add structured JSON outputs
+- Add better scoring explanations
+- Add example files and screenshots
+- Add tests for parsing and prompt outputs
+
+## About me
+
+I am Ahmed, documenting my AI/ML journey publicly while building real projects from scratch.
+
+- GitHub: [AihmedML](https://github.com/AihmedML)
+- X: [@Aihmed_ML](https://x.com/Aihmed_ML)
 
 ## License
 
