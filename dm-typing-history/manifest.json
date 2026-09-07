@@ -1,0 +1,1 @@
+{"name":"DM Typing History","description":"Remembers when a 1:1 DM contact starts typing, even if they stop without sending. Clears when they send a message.","authors":[{"name":"Ahmed / ChatGPT port","id":"0"}],"main":"index.js","hash":"41a67b88e5bb9b2cb878c913610778fdbe43013857393c701a7e77be189b75c2","vendetta":{"icon":"ic_message"}}
